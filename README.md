@@ -24,7 +24,6 @@
 		- 손바닥이 정면을 향하게 되기 때문에 '앞쪽'을 의미하는 데에서 포핸드라는 명칭이 붙었다.
 		- 백핸드와 스윙 방향이 정반대인 포핸드는, 자연스러운 방향으로 팔을 움직이게 되기 때문에 일반적으로 가장 배우기 쉬운 기술로 여겨진다.
 		- 포핸드의 그립에는 크게 네 가지가 있으며, 그 선호도는 지속적으로 변해왔다. 그 종류는 각각 웨스턴, 세미웨스턴, 이스턴, 그리고 컨티넨탈 그립이다.
-		![Alt text](https://www.google.com/imgres?imgurl=http%3A%2F%2Fdicimg.naver.com%2F100%2Fsub%2F791443_0.gif&imgrefurl=https%3A%2F%2Fm.cafe.daum.net%2Fwindcjk77%2Fnu41%2F64&tbnid=XNDIftJmnhfZ3M&vet=12ahUKEwjuw7eHz-jrAhUCSZQKHQwRDO8QMygKegUIARC6AQ..i&docid=1j1xR51ioumZ8M&w=500&h=272&q=%ED%85%8C%EB%8B%88%EC%8A%A4%20%ED%8F%AC%ED%95%B8%EB%93%9C&ved=2ahUKEwjuw7eHz-jrAhUCSZQKHQwRDO8QMygKegUIARC6AQ)
 		
 	- 백핸드
 		- 라켓을 잡은 손의 반대쪽에서 시작하여 팔을 손등방향으로 스윙하여 공을 받아 치는 동작
